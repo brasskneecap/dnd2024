@@ -1,0 +1,22 @@
+{
+  "id": "dnd2024",
+  "title": "DnD2024",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "phb-2024",
+      "label": "PHB 2024",
+      "path": "packs/phb-2024",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
